@@ -9,7 +9,7 @@
 
 [![Download](https://img.shields.io/badge/СКАЧАТЬ-LATEST_RELEASE-brightgreen?style=for-the-badge&logo=github)](https://github.com/KiloFarsh/zapretGUI-discord-youtube-roblox/releases/latest)
 
-> **Важно:** Запускайте программу от имени **Администратора**, чтобы драйверы сетевого перехвата могли работать.
+> **Важно:** Запускайте программу от имени **Администратора**.
 
 ---
 
